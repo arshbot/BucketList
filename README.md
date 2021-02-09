@@ -9,7 +9,7 @@ A bucket list of every project I want to build at some point in my life. I was w
 
 * ~~**Pretty website** -- different from arshbot.dev, something pretty to me~~ Done - https://harshago.li
 
- **Minecraft in Rust** -- Take a week and shotgun a project where I not only learn Rust, but take a crack at game development
+* **Minecraft in Rust** -- Take a week and shotgun a project where I not only learn Rust, but take a crack at game development
  
 * ~~**Venmo for Crypto** -- Simple idea, shouldn't be too difficult. As always with wallet's the most difficult part will be notifying users when they get more money from the network~~ [Done](https://github.com/arshbot/hail)
 
